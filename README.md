@@ -1,6 +1,6 @@
 Hello 👋 
 -------------------
-My name is Benaiah, I am a full stack web developer and Lambda School student. I am passionate about FinTech, solving programming problems, and creating new technology. 
+My name is Benaiah, I am a full stack web developer and Lambda School graduate. I am passionate about FinTech, solving programming problems, and creating new technology. 
 
 Some of my Skills and Interests:
 
