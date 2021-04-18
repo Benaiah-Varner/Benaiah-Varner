@@ -5,6 +5,6 @@ My name is Benaiah, I am a full stack web developer and Lambda School graduate. 
 Some of my Skills and Interests:
 
 - FinTech, Algorithmic trading, and e-commerce
-- Learning new things, always staying productive
+- Learning new things, productivity
 - HTML, CSS, React.js, Node.js, Express, Next.js and more
 - Programmatic problem solving with Python, JavaScript, or Node.js.
